@@ -2,3 +2,12 @@ p{
     color: aqua;
     background-color: black;
 }
+h1
+{
+    color: brown;
+    background-color: beige;
+}
+table
+{
+    border: 2px solid black;
+}
